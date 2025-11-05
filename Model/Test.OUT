@@ -1,0 +1,41 @@
+
+
+ ETABS Ultimate 64-bit 22.5.1 Build 3923 (Analysis Build 9988/64)               
+ File: C:\Users\juanj\Documents\0. CODING\4_ETABS_API\Model\Test.OUT            
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+     229 TO     230    A   A   A   A   A   A
+     233               -   -   -   -   -   -
+     234 TO     235    A   A   A   A   A   A
+     238               -   -   -   -   -   -
+     239 TO     240    A   A   A   A   A   A
+     243               -   -   -   -   -   -
+     244 TO     245    A   A   A   A   A   A
+     248               -   -   -   -   -   -
+     249 TO     250    A   A   A   A   A   A
+     253               -   -   -   -   -   -
+     254 TO     255    A   A   A   A   A   A
+     258               -   -   -   -   -   -
+     259 TO     260    A   A   A   A   A   A
+     263               -   -   -   -   -   -
+     264 TO     265    A   A   A   A   A   A
+     268               -   -   -   -   -   -
+     269 TO     270    A   A   A   A   A   A
+     273               -   -   -   -   -   -
+     274 TO     275    A   A   A   A   A   A
+     278               -   -   -   -   -   -
+     279 TO     280    A   A   A   A   A   A
+     283               -   -   -   -   -   -
+     284 TO     285    A   A   A   A   A   A
+     288               -   -   -   -   -   -
+     417 TO    ~335    A   A   A   A   A   A
