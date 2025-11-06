@@ -8,8 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 
 # Etabs files and API guides
 Model/
 *.chw
 *.chm
+
+# Report
+Tables and Reports/Test Memoria.xlsx
