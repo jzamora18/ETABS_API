@@ -30,7 +30,6 @@ def plot_spectrum(
 ):
     T = np.linspace(0, 8, 500)
     Sa = np.zeros_like(T)
-    Sa1 = np.full_like(T, np.nan)  # Use NaN for no values
 
     # Design spectrum calculation based on NSR-10
     for i, t in enumerate(T):
